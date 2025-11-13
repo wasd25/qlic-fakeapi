@@ -428,6 +428,31 @@
       "resolved": false
     }
   ],
+  "usageSummary": {
+    "current": 320,
+    "dailyLimit": 500,
+    "monthlyTotal": 12400
+  },
+  "usageEvents": [
+    {
+      "id": "1",
+      "time": "08:00",
+      "amount": 45,
+      "source": "Kitchen"
+    },
+    {
+      "id": "2",
+      "time": "09:30",
+      "amount": 30,
+      "source": "Bathroom"
+    },
+    {
+      "id": "3",
+      "time": "11:00",
+      "amount": 60,
+      "source": "Garden"
+    }
+  ],
   "subscriptions": [
     {
       "id": "1",
